@@ -13,3 +13,5 @@ This program is meant to be run on a jetson nano. First, training data (pictures
 3. Change the dataset to dataset B.
 4. Train the model by clicking "Train".
 5. After it is finished running live predictions will be given based on symbols shown to the camera.
+
+A video turtorial on how to run this program: https://youtu.be/DomkNAve3Lg
